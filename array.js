@@ -1,0 +1,11 @@
+ 
+let fruits = ["apple", "banana", "mango", "orange", "grape"];
+
+ 
+console.log(fruits[3]);  
+
+ 
+fruits[2] = "jambura";
+
+ 
+console.log(fruits);
